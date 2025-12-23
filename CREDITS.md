@@ -24,7 +24,7 @@ What started as "hey, what if we remixed these ideas with a brain-inspired dual-
 
 This work involved extensive back-and-forth with multiple AI systems. To be clear: **these are tools that helped think through ideas, not co-authors in any traditional sense.** They contributed synthesis, refinement, validation, and code—but the human judgment calls were Zee's.
 
-### Thea (ChatGPT-4 instance)
+### Thea (ChatGPT-5.2)
 **Role:** Philosophy lead, systems designer, integrator
 
 **Contributions:**
