@@ -10,7 +10,7 @@ What started as "hey, what if we remixed these ideas with a brain-inspired dual-
 
 ## Human Explorer
 
-**Zee** — Conceptual architect, integrator, and keeper of the "junk drawer prevention initiative"
+**Leena Thomas (a.k.a Zee)** — Conceptual architect, integrator, and keeper of the "junk drawer prevention initiative"
 
 - Asked the initial "what if?" questions
 - Synthesized ideas across multiple conversations
@@ -137,7 +137,7 @@ We're being explicit about this because:
 2. **Attribution matters** — Pretending AI collaborators are human co-authors would be misleading  
 3. **Transparency matters** — Future readers deserve to know how this was created
 
-This is an experiment in **collaborative thinking**, not collaborative authorship.
+This is an experiment in **collaborative thinking**, not collaborative authorship or agency.
 
 ---
 
